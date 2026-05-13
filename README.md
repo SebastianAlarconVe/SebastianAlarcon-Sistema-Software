@@ -11,3 +11,6 @@ El sistema permite:
 2. Seleccionar el servicio
 3. Calcular el costo del servicio
 4. Registrar la información en logs
+git add .
+git commit -m "Subiendo archivos del sistema"
+git push
